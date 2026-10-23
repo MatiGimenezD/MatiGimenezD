@@ -1,8 +1,8 @@
-![Matías Giménez: full-stack developer and AI automation](assets/banner.png)
+![Matías Giménez: developer and AI automation](assets/banner.png)
 
 # Hi, I'm Matías 👋
 
-**Full-stack developer and Systems Analyst** from Argentina. I build software that solves real problems for real businesses, and I run two of my own products in production.
+**Developer and Systems Analyst** from Argentina. I build software that solves real problems for real businesses, and I run two of my own products in production.
 
 ## What I've built
 
@@ -13,7 +13,7 @@
 
 <table>
   <tr>
-    <td width="50%"><a href="https://simplebuy.com.ar"><img src="assets/simplebuy.png" alt="SimpleBuy landing page"></a><br><sub><b>SimpleBuy</b>: online stores for local businesses</sub></td>
+    <td width="50%"><a href="https://elgalponcito.simplebuy.com.ar"><img src="assets/simplebuy.png" alt="A real store running on SimpleBuy"></a><br><sub><b>SimpleBuy</b>: a real store running on the platform (<a href="https://elgalponcito.simplebuy.com.ar">El Galponcito</a>)</sub></td>
     <td width="50%"><a href="https://citax.com.ar"><img src="assets/citax.png" alt="Citax landing page"></a><br><sub><b>Citax</b>: AI appointment booking over WhatsApp</sub></td>
   </tr>
 </table>
