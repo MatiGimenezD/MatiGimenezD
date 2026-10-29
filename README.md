@@ -7,15 +7,24 @@
 **Developer and Systems Analyst** from Argentina. I build software that solves real problems for real businesses, and I run two of my own products in production.
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/ff9a3c/matigimenezd" alt="Matías Giménez's GitHub contributions over the last year" width="100%" />
+  <img src="assets/contributions.svg" alt="Matías Giménez's GitHub contributions over the last year, drawn as an audio waveform" width="100%" />
 </p>
 
-## What I've built
+## Tracklist
 
-- **[SimpleBuy](https://simplebuy.com.ar)**: an e-commerce platform for local stores, with checkout through Mercado Pago. **5,000+ orders processed.** Every change goes through a pull request that runs unit and end-to-end tests; nothing merges unless they pass.
-- **[Citax](https://citax.com.ar)**: an AI assistant that books appointments over WhatsApp. **500+ appointments handled with no human intervention**, using message queues, retries and PostgreSQL to keep each conversation's state.
-- **Client work**: a reservations and payments system that replaced a club's spreadsheets, and websites for an industrial company and a consultancy.
-- **[SIU-Guaraní GPA Calculator](https://github.com/MatiGimenezD/SiuGuaraniPromedio)**: a Chrome extension used by 100+ students.
+**Side A: products I run in production**
+
+| # | Track | What it does | Plays |
+|--:|:--|:--|:--|
+| 01 | **[SimpleBuy](https://simplebuy.com.ar)** | E-commerce for local stores, checkout through Mercado Pago. Every change goes through a pull request with unit and end-to-end tests; nothing merges unless they pass. | 5,000+ orders |
+| 02 | **[Citax](https://citax.com.ar)** | AI assistant that books appointments over WhatsApp, with message queues, retries and PostgreSQL holding each conversation's state. | 500+ appointments, no human involved |
+
+**Side B: client work and tools**
+
+| # | Track | What it does | Plays |
+|--:|:--|:--|:--|
+| 03 | **Client work** | A reservations and payments system that replaced a club's spreadsheets, plus websites for an industrial company and a consultancy. | 3 clients |
+| 04 | **[SIU-Guaraní GPA Calculator](https://github.com/MatiGimenezD/SiuGuaraniPromedio)** | Chrome extension that calculates a student's GPA. | 100+ students |
 
 <table>
   <tr>
