@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Matías Giménez: developer and AI automation" width="100%" />
+  <img src="assets/banner-wave.svg" alt="Matías Giménez: developer and AI automation" width="100%" />
 </p>
 
 # Hi, I'm Matías 👋
