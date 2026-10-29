@@ -1,8 +1,14 @@
-![Matías Giménez: developer and AI automation](assets/banner.png)
+<p align="center">
+  <img src="assets/banner.svg" alt="Matías Giménez: developer and AI automation" width="100%" />
+</p>
 
 # Hi, I'm Matías 👋
 
 **Developer and Systems Analyst** from Argentina. I build software that solves real problems for real businesses, and I run two of my own products in production.
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/ff9a3c/matigimenezd" alt="Matías Giménez's GitHub contributions over the last year" width="100%" />
+</p>
 
 ## What I've built
 
