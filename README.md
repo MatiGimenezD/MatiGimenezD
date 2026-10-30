@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light-v3.svg">
-    <img src="assets/banner-dark-v3.svg" alt="Matías Giménez: developer and AI automation" width="100%" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light-v4.svg">
+    <img src="assets/banner-dark-v4.svg" alt="Matías Giménez: developer and AI automation" width="100%" />
   </picture>
 </p>
 
@@ -32,8 +32,8 @@
 
 <table>
   <tr>
-    <td width="30%" align="center" valign="top"><a href="https://simplebuy.com.ar"><img src="assets/simplebuy-reel.webp" alt="Animated preview of the SimpleBuy reel" width="100%"></a><br><sub><b>SimpleBuy</b>: from WhatsApp orders to a store and its dashboard (<a href="https://elgalponcito.simplebuy.com.ar">see a real store</a>)</sub></td>
-    <td width="70%" align="center" valign="top"><a href="https://citax.com.ar"><img src="assets/citax-chat.svg" alt="Animated demo: a client books an appointment with Citax over WhatsApp" width="100%"></a><br><sub><b>Citax</b>: a client books an appointment over WhatsApp (demo conversation)</sub></td>
+    <td width="35%" align="center" valign="middle"><a href="https://simplebuy.com.ar"><img src="assets/simplebuy-reel-v2.webp" alt="Animated preview of the SimpleBuy reel" width="100%"></a><br><sub><b>SimpleBuy</b>: from WhatsApp orders to a store and its dashboard (<a href="https://elgalponcito.simplebuy.com.ar">see a real store</a>)</sub></td>
+    <td width="65%" align="center" valign="middle"><a href="https://citax.com.ar"><img src="assets/citax-chat-v2.svg" alt="Animated demo: a client books an appointment with Citax over WhatsApp" width="100%"></a><br><sub><b>Citax</b>: a client books an appointment over WhatsApp (demo conversation)</sub></td>
   </tr>
 </table>
 

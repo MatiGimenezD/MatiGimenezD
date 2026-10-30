@@ -1,9 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-labelledby="t">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="760" viewBox="240 20 800 760" role="img" aria-labelledby="t">
   <title id="t">Animated demo: a client books an appointment with Citax over WhatsApp</title>
-  <defs>
-    <radialGradient id="g" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#ff9a3c" stop-opacity=".2"/><stop offset="1" stop-color="#ff9a3c" stop-opacity="0"/></radialGradient>
-  </defs>
-  <ellipse cx="640" cy="400" rx="560" ry="360" fill="url(#g)"/>
   <rect x="260" y="40" width="760" height="720" rx="30" fill="#0b0b0b" stroke="#262626" stroke-width="2"/>
   <circle cx="322" cy="100" r="26" fill="#ff9a3c"/>
   <text x="322" y="111" text-anchor="middle" fill="#000" font-family="Georgia, serif" font-size="32" font-weight="bold">C</text>
