@@ -7,7 +7,10 @@
 **Developer and Systems Analyst** from Argentina. I build software that solves real problems for real businesses, and I run two of my own products in production.
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/ff9a3c/matigimenezd" alt="Matías Giménez's GitHub contributions over the last year" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatiGimenezD/MatiGimenezD/output/snake-light.svg">
+    <img src="https://raw.githubusercontent.com/MatiGimenezD/MatiGimenezD/output/snake.svg" alt="A snake eating Matías Giménez's GitHub contributions" width="100%" />
+  </picture>
 </p>
 
 ## What I've built
