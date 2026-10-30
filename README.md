@@ -32,8 +32,8 @@
 
 <table>
   <tr>
-    <td width="50%"><a href="https://elgalponcito.simplebuy.com.ar"><img src="assets/simplebuy.png" alt="A real store running on SimpleBuy"></a><br><sub><b>SimpleBuy</b>: a real store running on the platform (<a href="https://elgalponcito.simplebuy.com.ar">El Galponcito</a>)</sub></td>
-    <td width="50%"><a href="https://citax.com.ar"><img src="assets/citax-chat.svg" alt="Animated demo: a client books an appointment with Citax over WhatsApp"></a><br><sub><b>Citax</b>: a client books an appointment over WhatsApp (demo conversation)</sub></td>
+    <td width="30%" align="center" valign="top"><a href="https://simplebuy.com.ar"><img src="assets/simplebuy-reel.webp" alt="Animated preview of the SimpleBuy reel" width="100%"></a><br><sub><b>SimpleBuy</b>: from WhatsApp orders to a store and its dashboard (<a href="https://elgalponcito.simplebuy.com.ar">see a real store</a>)</sub></td>
+    <td width="70%" align="center" valign="top"><a href="https://citax.com.ar"><img src="assets/citax-chat.svg" alt="Animated demo: a client books an appointment with Citax over WhatsApp" width="100%"></a><br><sub><b>Citax</b>: a client books an appointment over WhatsApp (demo conversation)</sub></td>
   </tr>
 </table>
 
