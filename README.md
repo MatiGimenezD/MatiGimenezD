@@ -32,8 +32,8 @@
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top"><a href="https://github.com/MatiGimenezD/MatiGimenezD/blob/main/assets/simplebuy-reel.mp4"><img src="assets/simplebuy-reel-preview.webp" alt="Preview of the SimpleBuy reel" width="300"></a><br><sub><b>SimpleBuy</b>: from WhatsApp orders to a store and its dashboard<br><a href="https://github.com/MatiGimenezD/MatiGimenezD/blob/main/assets/simplebuy-reel.mp4">▶ Watch the video</a> · <a href="https://elgalponcito.simplebuy.com.ar">see a real store</a></sub></td>
-    <td width="50%" align="center" valign="top"><a href="https://github.com/MatiGimenezD/MatiGimenezD/blob/main/assets/citax-reel.mp4"><img src="assets/citax-reel-preview.webp" alt="Preview of the Citax reel" width="300"></a><br><sub><b>Citax</b>: AI appointment booking over WhatsApp<br><a href="https://github.com/MatiGimenezD/MatiGimenezD/blob/main/assets/citax-reel.mp4">▶ Watch the video</a> · <a href="https://citax.com.ar">citax.com.ar</a></sub></td>
+    <td width="50%" align="center" valign="top"><video src="https://github.com/user-attachments/assets/41d538e3-1a82-46d7-b8a9-e7bf200f135c" controls muted loop playsinline width="300"></video><br><sub><b>SimpleBuy</b>: from WhatsApp orders to a store and its dashboard<br><a href="https://elgalponcito.simplebuy.com.ar">see a real store</a></sub></td>
+    <td width="50%" align="center" valign="top"><video src="https://github.com/user-attachments/assets/ddf7217b-fd36-44bb-9872-4356df0efee9" controls muted loop playsinline width="300"></video><br><sub><b>Citax</b>: AI appointment booking over WhatsApp<br><a href="https://citax.com.ar">citax.com.ar</a></sub></td>
   </tr>
 </table>
 
