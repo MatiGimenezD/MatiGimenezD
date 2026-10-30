@@ -32,8 +32,8 @@
 
 <table>
   <tr>
-    <td width="35%" align="center" valign="middle"><a href="https://simplebuy.com.ar"><img src="assets/simplebuy-reel-v2.webp" alt="Animated preview of the SimpleBuy reel" width="100%"></a><br><sub><b>SimpleBuy</b>: from WhatsApp orders to a store and its dashboard (<a href="https://elgalponcito.simplebuy.com.ar">see a real store</a>)</sub></td>
-    <td width="65%" align="center" valign="middle"><a href="https://citax.com.ar"><img src="assets/citax-chat-v2.svg" alt="Animated demo: a client books an appointment with Citax over WhatsApp" width="100%"></a><br><sub><b>Citax</b>: a client books an appointment over WhatsApp (demo conversation)</sub></td>
+    <td width="50%" align="center" valign="top"><a href="https://github.com/MatiGimenezD/MatiGimenezD/blob/main/assets/simplebuy-reel.mp4"><img src="assets/simplebuy-reel-preview.webp" alt="Preview of the SimpleBuy reel" width="300"></a><br><sub><b>SimpleBuy</b>: from WhatsApp orders to a store and its dashboard<br><a href="https://github.com/MatiGimenezD/MatiGimenezD/blob/main/assets/simplebuy-reel.mp4">▶ Watch the video</a> · <a href="https://elgalponcito.simplebuy.com.ar">see a real store</a></sub></td>
+    <td width="50%" align="center" valign="top"><a href="https://github.com/MatiGimenezD/MatiGimenezD/blob/main/assets/citax-reel.mp4"><img src="assets/citax-reel-preview.webp" alt="Preview of the Citax reel" width="300"></a><br><sub><b>Citax</b>: AI appointment booking over WhatsApp<br><a href="https://github.com/MatiGimenezD/MatiGimenezD/blob/main/assets/citax-reel.mp4">▶ Watch the video</a> · <a href="https://citax.com.ar">citax.com.ar</a></sub></td>
   </tr>
 </table>
 
