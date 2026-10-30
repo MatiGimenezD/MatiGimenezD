@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="64" viewBox="0 0 360 64" role="img" aria-labelledby="t">
+  <title id="t">View my portfolio</title>
+  <rect x="1" y="1" width="358" height="62" rx="31" fill="#d9650c" fill-opacity=".08" stroke="#d9650c" stroke-width="2"/>
+  <text x="44" y="40" fill="#1a1a1a" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600" letter-spacing=".3">View my portfolio</text>
+  <g stroke="#d9650c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <animateTransform attributeName="transform" type="translate" values="0 0;5 0;0 0" dur="1.8s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+    <path d="M280 32 H312 M300 21 L312 32 L300 43"/>
+  </g>
+</svg>

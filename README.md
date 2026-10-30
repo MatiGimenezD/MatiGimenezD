@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/banner-stars.svg" alt="Matías Giménez: developer and AI automation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img src="assets/banner-dark.svg" alt="Matías Giménez: developer and AI automation" width="100%" />
+  </picture>
 </p>
 
 # Hi, I'm Matías 👋
@@ -7,7 +10,10 @@
 **Developer and Systems Analyst** from Argentina. I build software that solves real problems for real businesses, and I run two of my own products in production.
 
 <p align="center">
-  <a href="https://matigimenezd.github.io/portfolio/"><img src="assets/button-portfolio.svg" alt="View my portfolio" width="300" /></a>
+  <a href="https://matigimenezd.github.io/portfolio/"><picture>
+      <source media="(prefers-color-scheme: light)" srcset="assets/button-light.svg">
+      <img src="assets/button-dark.svg" alt="View my portfolio" width="300" />
+    </picture></a>
 </p>
 
 <p align="center">
