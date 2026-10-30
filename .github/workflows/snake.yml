@@ -22,6 +22,9 @@ jobs:
           outputs: |
             dist/snake.svg?color_snake=#fff3da&color_dots=#161616,#5c3612,#a85c1a,#ff9a3c,#ffcf8a
             dist/snake-light.svg?color_snake=#c65a10&color_dots=#ebedf0,#ffd9a8,#ffb86b,#ff9a3c,#c65a10
+      - name: Remove the progress bar
+        run: |
+          sed -i -E 's#<rect class="u u[0-9a-z]+"[^>]*/>##g; s#viewBox="-16 -32 880 192" width="880" height="192"#viewBox="-16 -32 880 160" width="880" height="160"#' dist/*.svg
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
