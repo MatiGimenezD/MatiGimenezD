@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="assets/banner-wave.svg" alt="Matías Giménez: developer and AI automation" width="100%" />
+  <img src="assets/banner-stars.svg" alt="Matías Giménez: developer and AI automation" width="100%" />
 </p>
 
 # Hi, I'm Matías 👋
 
 **Developer and Systems Analyst** from Argentina. I build software that solves real problems for real businesses, and I run two of my own products in production.
+
+<p align="center">
+  <a href="https://matigimenezd.github.io/portfolio/"><img src="assets/button-portfolio.svg" alt="View my portfolio" width="300" /></a>
+</p>
 
 <p align="center">
   <picture>
@@ -27,23 +31,15 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="assets/divider-pulse.svg" alt="" width="100%" />
-</p>
-
 ## Stack
 
-`JavaScript` `TypeScript` `Node.js` `React` `Python` `SQL` `PostgreSQL` `MongoDB` `AWS` `GitHub Actions` `Playwright`
+`JavaScript` `TypeScript` `Node.js` `React` `Python` `SQL` `PostgreSQL` `MongoDB` `GitHub Actions` `Playwright`
 
 I also work daily with AI tools and LLM APIs to build and review software.
 
 ## Currently
 
 Finishing my Information Systems Engineering degree, researching data analysis with Python and SQL at my university, and building small projects to keep learning.
-
-<p align="center">
-  <img src="assets/divider-pulse.svg" alt="" width="100%" />
-</p>
 
 ## Contact
 
