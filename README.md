@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light-v2.svg">
-    <img src="assets/banner-dark-v2.svg" alt="Matías Giménez: developer and AI automation" width="100%" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light-v3.svg">
+    <img src="assets/banner-dark-v3.svg" alt="Matías Giménez: developer and AI automation" width="100%" />
   </picture>
 </p>
 
