@@ -20,9 +20,13 @@
 <table>
   <tr>
     <td width="50%"><a href="https://elgalponcito.simplebuy.com.ar"><img src="assets/simplebuy.png" alt="A real store running on SimpleBuy"></a><br><sub><b>SimpleBuy</b>: a real store running on the platform (<a href="https://elgalponcito.simplebuy.com.ar">El Galponcito</a>)</sub></td>
-    <td width="50%"><a href="https://citax.com.ar"><img src="assets/citax.png" alt="Citax landing page"></a><br><sub><b>Citax</b>: AI appointment booking over WhatsApp</sub></td>
+    <td width="50%"><a href="https://citax.com.ar"><img src="assets/citax-chat.svg" alt="Animated demo: a client books an appointment with Citax over WhatsApp"></a><br><sub><b>Citax</b>: a client books an appointment over WhatsApp (demo conversation)</sub></td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="assets/divider-pulse.svg" alt="" width="100%" />
+</p>
 
 ## Stack
 
@@ -33,6 +37,10 @@ I also work daily with AI tools and LLM APIs to build and review software.
 ## Currently
 
 Finishing my Information Systems Engineering degree, researching data analysis with Python and SQL at my university, and building small projects to keep learning.
+
+<p align="center">
+  <img src="assets/divider-pulse.svg" alt="" width="100%" />
+</p>
 
 ## Contact
 
